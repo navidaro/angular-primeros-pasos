@@ -19,4 +19,6 @@ import { ListComponent } from './list/list.component';
 })
 export class HeroesModule {
 
+  constructor() { }
+
 }
